@@ -1,5 +1,3 @@
-package com.project;
-
 import java.util.*;
 import java.util.Scanner;
 public class SpiralNumbers {
